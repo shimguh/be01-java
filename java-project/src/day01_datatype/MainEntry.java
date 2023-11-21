@@ -74,7 +74,7 @@ public class MainEntry {
 		}
 		*/
 		// boolean
-		System.out.println("\n\n boolean type");
+		// System.out.println("\n\n boolean type");
 		boolean flag = true;
 		// int b = flag;  //
 		System.out.println(flag);
